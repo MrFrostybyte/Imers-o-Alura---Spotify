@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Imersão</title>
+    <link rel="shortcut icon" href="./src/assets/icons/favicon.png" type="image/x-icon" />
+    <link href="https://fonts.googleapis.com/css2?family=Alice&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Dancing+Script:wght@400;500;600;700&family=Oranienbaum&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./src/Styles/reset.css">
+    <link rel="stylesheet" href="./src/Styles/vars.css">
+    <link rel="stylesheet" href="./src/Styles/main-content.css">
+    <link rel="stylesheet" href="./src/Styles/sidebar-footer.css">
+</head>
+
+<body>
+    <div class="sidebar">
+        <nav class="sidebar__navigation"> 
+            <div class="logo">
+                <a href="">
+                    <img src="./src/Assets/Icons/Teste.png" alt="logo do spotify">
+                </a>
+                <div>
+                    <ul>
+                        <li>
+                        <a href="">
+                            <span class="fa fa-home"></span>
+                            <span>Início</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <span class="fa fa-search"></span>
+                            <span>Buscar</span>
+                        </a>
+                    </li>
+                </ul>
+                </div>
+            </div>
+        </nav>
+    
+        <div class="library">
+            <div class="library__content">
+                <button class="library__button">
+                    <span class="fa fa-book"></span>
+                    <span>Sua Biblioteca</span>
+                </button>
+                <span class="fa fa-plus"></span>
+            </div>
+        </div>
+    
+        <section class="section-playlist">
+            <div class="section-playlist__content">
+                <span class="text title">Crie sua primeira Playlist</span>
+                <span class="text subtitle">É fácil vamos te ajudar</span>
+                <button class="section-playlist__button">
+                    <span>Criar Playlist</span>
+                </button>
+            </div>
+        </section>
+    
+        <div class="cookies">
+            <a href="">Cookies</a>
+        </div>
+    
+        <div class="languages">
+            <button class="languages__button">
+                <span class="fa fa-globe"></span>
+                <span>Português do Brasil</span>
+            </button>
+        </div>
+    </div>
+    
+    <main>
+        <div class="main-container">
+            <nav class="header__navigation">
+                <div class="navigation">
+                    <button class="arrow-left">
+                        <img src="./src/Assets/Icons/rightarrow.png" alt="Seta esquerda"width="20" height="30">
+                    </button>
+                    <button class="arrow-right">
+                        <img src="./src/Assets/Icons/leftarrow.png" alt="Seta direita"width="20" height="30">
+                    </button>
+                </div>
+                
+                <div class="header__search">
+                    <img src="./src/Assets/Icons/Search.png" alt="">
+                    <input id="search-input" type="text" maxlength="800" placeholder="O que você quer ouvir?"/>
+                </div>
+    
+                <div class="header__login">
+                    <button class="subscribe">Inscreva-se</button>
+                    <button class="login">Entrar</button>
+                </div>
+            </nav>
+        </div>
+    </main>
+</body>
+
+     <footer class="disclaimer-premium">
+        <div class="footer__text">
+          <p class="title">Testar o Premium de graça</p>
+          <p class="subtitle">Inscreva-se para curtir música ilimitada e podcasts só com alguns anúncios. Não precisa de cartão de crédito.</p>
+        </div>
+        <div class="footer__button">
+          <a class="footer__link" href="#">Inscreva-se grátis</a>
+        </div>
+        <p class="footer__bottom">Todos os direitos reservados &copy; 2024</p>
+      </footer>
+
+</html>
