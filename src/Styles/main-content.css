@@ -89,4 +89,23 @@
     border-radius: 40px;
 }
 
-/* Card */
+.card__welcome{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 18px;
+    margin-top: 40px;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    background-color: #121212;
+}
+
+.card__welcome .container .title{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.card__welcome .container .subtitle{
+    font-size: 21px;
+    font-weight: 700;
+}
