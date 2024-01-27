@@ -27,10 +27,6 @@
     margin-right: 1.25rem;
 }
 
-.header__navigation .navigation . arrow-right{
-    margin-left: 32px;
-}
-
 .arrow-left, .arrow-right{
     display: flex;
     align-items: center;
