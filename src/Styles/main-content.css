@@ -23,11 +23,8 @@
     align-items: center;
 }
 
-.header__navigation .navigation . arrow-left{
-    margin-right: 1.25rem;
-}
-
 .arrow-left, .arrow-right{
+    margin-right: 1.25rem;
     display: flex;
     align-items: center;
     justify-content: center;
