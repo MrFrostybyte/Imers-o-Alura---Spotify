@@ -1,5 +1,7 @@
 # Imersão Alura - Spotify
+
 Neste projeto foi trabalhado os conceitos básicos na prática do HTML, CSS e JS para recriação da página do Spotify.
+
 ## Aula 1 -  Revisão: HTML, CSS e JS na prática
 
 - Entrar no VSCode;
