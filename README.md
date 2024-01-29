@@ -1,7 +1,5 @@
 # Imersão Alura - Spotify
-
-Nas primeira três aulas foi trabalhado o conceito de recriação da página do Spotify por meio do HTML e CSS.
-
+Neste projeto foi trabalhado os conceitos básicos na prática do HTML, CSS e JS para recriação da página do Spotify.
 ## Aula 1 -  Revisão: HTML, CSS e JS na prática
 
 - Entrar no VSCode;
@@ -35,3 +33,17 @@ Nas primeira três aulas foi trabalhado o conceito de recriação da página do 
 ### Desafio da Aula:
 
 - Faça os cards de “Boa tarde” e “Navegar por todas as seções”.
+
+## Aula 4 - CSS grid, Media Querries e Manipulação do DOM com JavaScript
+- Criar os cards da página inicial;
+- Aprender a usar o CSS Grid Layout;
+- Utilizar media queries para responsividade;
+- Instalar do Node.js;
+- Introduzir o JavaScript no projeto;
+- Utilizar o conceito DOM;
+- Conhecer o método Promises do JavaScript.
+
+### Desafio da Aula:
+
+- Teste fazer mais cards se baseie na página do Spotify e aprenda muito mais;
+- Crie um arquivo API JSON diferente e explore mais.
