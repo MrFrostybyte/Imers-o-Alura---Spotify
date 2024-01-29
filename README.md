@@ -49,3 +49,12 @@ Neste projeto foi trabalhado os conceitos básicos na prática do HTML, CSS e JS
 
 - Teste fazer mais cards se baseie na página do Spotify e aprenda muito mais;
 - Crie um arquivo API JSON diferente e explore mais.
+
+## Aula 5 - Frameworks e Eficiência: Introdução ao React e Angular
+- Dar introdução a um projeto React;
+- Utilizar o framework React para criar o componente <Header>;
+- Aprender as diferenças entre Angular e React.
+
+### Desafio da Aula:
+
+- Fazer o resto do React.
